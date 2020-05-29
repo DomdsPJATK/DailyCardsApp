@@ -1,0 +1,9 @@
+.dayBox {
+    width: 100px;
+    height: 100px;
+    background-color: #343a40;
+    padding: 20px;
+    text-align: center;
+    overflow: hidden;
+    color: white;
+}
